@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing ros2_demo_py.egg-info/PKG-INFO
+writing dependency_links to ros2_demo_py.egg-info/dependency_links.txt
+writing entry points to ros2_demo_py.egg-info/entry_points.txt
+writing requirements to ros2_demo_py.egg-info/requires.txt
+writing top-level names to ros2_demo_py.egg-info/top_level.txt
+reading manifest file 'ros2_demo_py.egg-info/SOURCES.txt'
+writing manifest file 'ros2_demo_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/luis/Documents/ros2_examples/ros2_demo_py/install/ros2_demo_py/lib/python3.6/site-packages/ros2-demo-py.egg-link (link to .)
+Installing demo script to /home/luis/Documents/ros2_examples/ros2_demo_py/install/ros2_demo_py/lib/ros2_demo_py
+
+Installed /home/luis/Documents/ros2_examples/ros2_demo_py/build/ros2_demo_py
+running install_data
